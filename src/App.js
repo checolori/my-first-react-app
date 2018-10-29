@@ -12,7 +12,8 @@ class App extends Component {
         </header>
 
         <main>
-        <Title content="Some Simple Title" />
+        <Title content="CIAOOOOOO" />
+        <LightSwitch />
         </main>
       </div>
     );
